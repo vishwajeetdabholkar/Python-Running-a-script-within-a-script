@@ -1,4 +1,4 @@
-# Python-Running-a-script-within-a-script
+# Python-running-a-script-within-a-script
 Python code to run a python script with arguments from another script
 
 Following example contains two python prorgams:
